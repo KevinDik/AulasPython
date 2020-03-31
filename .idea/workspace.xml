@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="" />
+    <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AulasPython" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZrbrMcegZ7P73m04P6iaqHkSvR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -149,6 +152,11 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/AulasPython" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585613390923">
       <screen x="0" y="0" width="1366" height="728" />
@@ -166,6 +174,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585613390923" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1585616798013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585616798013" />
     <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585614483670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
