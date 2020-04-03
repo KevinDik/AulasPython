@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 6/21 ler dois num somar par multi impar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 6/22 ler sequencias de notas e informar a media aritimetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 6/23 ler um numero positivo e imprimir seus divisores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 6/24 ler um num int e calc soma dos divs exc dele.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 6/25 soma dos num nat de 1000 mult de 3 ou 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 6/26 econtrar o multi de 11 13 17 apos num dado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +39,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.21 ler dois num somar par multi impar">
-    <configuration name="17 ler inteiro e calcular a soma dos primeiros nat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.26 econtrar o multi de 11 13 17 apos num dado">
+    <configuration name="22 ler sequencias de notas e informar a media aritimetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/17 ler inteiro e calcular a soma dos primeiros nat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/22 ler sequencias de notas e informar a media aritimetica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18 ler uma quant e escrever quantas vezes o maior foi lido" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23 ler um numero positivo e imprimir seus divisores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/18 ler uma quant e escrever quantas vezes o maior foi lido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/23 ler um numero positivo e imprimir seus divisores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19 ler num inteiro e imprimir os algarismos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="24 ler um num int e calc soma dos divs exc dele" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/19 ler num inteiro e imprimir os algarismos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/24 ler um num int e calc soma dos divs exc dele.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20 ler num definir pares e posições" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="25 soma dos num nat de 1000 mult de 3 ou 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/20 ler num definir pares e posições.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/25 soma dos num nat de 1000 mult de 3 ou 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21 ler dois num somar par multi impar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="26 econtrar o multi de 11 13 17 apos num dado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/21 ler dois num somar par multi impar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/26 econtrar o multi de 11 13 17 apos num dado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.21 ler dois num somar par multi impar" />
-        <item itemvalue="Python.20 ler num definir pares e posições" />
-        <item itemvalue="Python.19 ler num inteiro e imprimir os algarismos" />
-        <item itemvalue="Python.18 ler uma quant e escrever quantas vezes o maior foi lido" />
-        <item itemvalue="Python.17 ler inteiro e calcular a soma dos primeiros nat" />
+        <item itemvalue="Python.26 econtrar o multi de 11 13 17 apos num dado" />
+        <item itemvalue="Python.25 soma dos num nat de 1000 mult de 3 ou 5" />
+        <item itemvalue="Python.24 ler um num int e calc soma dos divs exc dele" />
+        <item itemvalue="Python.23 ler um numero positivo e imprimir seus divisores" />
+        <item itemvalue="Python.22 ler sequencias de notas e informar a media aritimetica" />
       </list>
     </recent_temporary>
   </component>
@@ -182,29 +186,29 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585792471760">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1585875257255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585792471760" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585792471760">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585875257255" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1585875257254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585792471760" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585792471760">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585875257254" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1585875257254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585792471760" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585792471760">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585875257254" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1585875257254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585792471760" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585875257254" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1585616798013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585616798013" />
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585790233587">
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585839691241">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585790233587" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585839691240" />
   </component>
 </project>
