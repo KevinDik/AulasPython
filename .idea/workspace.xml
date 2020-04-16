@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 6/29 Calculo da serie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 6/30 Calcular as sequências.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 6/31 calcular o valor de s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 6/32 Simulação de dois dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 6/33 ler 2 num e imprimir is multi naturais de ambos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 6/34 Calculo do MMC de 1 a 20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 6/28 ler valor e calcular.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 6/28 ler valor e calcular.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +47,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.33 ler 2 num e imprimir is multi naturais de ambos">
-    <configuration name="29 Calculo da serie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.12">
+    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/29 Calculo da serie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="30 Calcular as sequências" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/30 Calcular as sequências.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="31 calcular o valor de s" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/31 calcular o valor de s.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="32 Simulação de dois dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/32 Simulação de dois dados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="33 ler 2 num e imprimir is multi naturais de ambos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 6/33 ler 2 num e imprimir is multi naturais de ambos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.33 ler 2 num e imprimir is multi naturais de ambos" />
-        <item itemvalue="Python.32 Simulação de dois dados" />
-        <item itemvalue="Python.31 calcular o valor de s" />
-        <item itemvalue="Python.30 Calcular as sequências" />
-        <item itemvalue="Python.29 Calculo da serie" />
+        <item itemvalue="Python.12" />
+        <item itemvalue="Python.11" />
+        <item itemvalue="Python.10" />
+        <item itemvalue="Python.09" />
+        <item itemvalue="Python.08" />
       </list>
     </recent_temporary>
   </component>
@@ -187,38 +194,38 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1586352601559">
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1587042653059">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586352601559" />
-    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1586352601559">
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587042653059" />
+    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1587042653058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586352601559" />
-    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1586352601559">
+    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587042653058" />
+    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1587042653058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586352601559" />
-    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1586352601559">
+    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587042653058" />
+    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1587042653058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586352601559" />
-    <state width="1345" height="138" key="GridCell.Tab.1.bottom" timestamp="1586351756958">
+    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587042653058" />
+    <state width="1345" height="138" key="GridCell.Tab.1.bottom" timestamp="1586375678571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586351756958" />
-    <state width="1345" height="138" key="GridCell.Tab.1.center" timestamp="1586351756957">
+    <state width="1345" height="138" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
+    <state width="1345" height="138" key="GridCell.Tab.1.center" timestamp="1586375678571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586351756957" />
-    <state width="1345" height="138" key="GridCell.Tab.1.left" timestamp="1586351756957">
+    <state width="1345" height="138" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
+    <state width="1345" height="138" key="GridCell.Tab.1.left" timestamp="1586375678571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586351756957" />
-    <state width="1345" height="138" key="GridCell.Tab.1.right" timestamp="1586351756957">
+    <state width="1345" height="138" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
+    <state width="1345" height="138" key="GridCell.Tab.1.right" timestamp="1586375678571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586351756957" />
+    <state width="1345" height="138" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1585616798013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
