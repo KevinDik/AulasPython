@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 7/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 7/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 7/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 7/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 7/17.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aula 7/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +38,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExercicioAlgoritmo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExerciciosPython" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.18">
-    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.24">
+    <configuration name="20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.18" />
-        <item itemvalue="Python.17" />
-        <item itemvalue="Python.16" />
-        <item itemvalue="Python.15" />
-        <item itemvalue="Python.14" />
+        <item itemvalue="Python.24" />
+        <item itemvalue="Python.23" />
+        <item itemvalue="Python.22" />
+        <item itemvalue="Python.21" />
+        <item itemvalue="Python.20" />
       </list>
     </recent_temporary>
   </component>
@@ -187,49 +188,49 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587043127713">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587231602756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587043127713" />
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1587055458026">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587231602756" />
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1587239019605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587055458026" />
-    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1587055458026">
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587239019605" />
+    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1587239019605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587055458026" />
-    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1587055458026">
+    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587239019605" />
+    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1587239019604">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587055458026" />
-    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1587055458026">
+    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587239019604" />
+    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1587239019605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587055458026" />
-    <state width="1345" height="138" key="GridCell.Tab.1.bottom" timestamp="1586375678571">
+    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587239019605" />
+    <state width="1345" height="277" key="GridCell.Tab.1.bottom" timestamp="1587234350376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
-    <state width="1345" height="138" key="GridCell.Tab.1.center" timestamp="1586375678571">
+    <state width="1345" height="277" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587234350376" />
+    <state width="1345" height="277" key="GridCell.Tab.1.center" timestamp="1587234350376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
-    <state width="1345" height="138" key="GridCell.Tab.1.left" timestamp="1586375678571">
+    <state width="1345" height="277" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587234350376" />
+    <state width="1345" height="277" key="GridCell.Tab.1.left" timestamp="1587234350376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
-    <state width="1345" height="138" key="GridCell.Tab.1.right" timestamp="1586375678571">
+    <state width="1345" height="277" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587234350376" />
+    <state width="1345" height="277" key="GridCell.Tab.1.right" timestamp="1587234350376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="138" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586375678571" />
+    <state width="1345" height="277" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587234350376" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1585616798013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585616798013" />
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586338159721">
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587230907341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586338159721" />
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587230907341" />
   </component>
 </project>
