@@ -1,7 +1,3 @@
-lista = list()
-for item in range(1, 7):
-    num = int(input('Digite um valor: '))
-    lista.append(num)
+lista = list(int(input('Digite um valor: ')) for valor in range(1, 7))
 print(f'Os valores digitados foram: ')
-for valor in lista:
-    print(valor, end=' ')
+[print(valor, end=' ') for valor in lista]

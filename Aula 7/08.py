@@ -1,8 +1,5 @@
 from random import randint
-valores = []
-for item in range(1, 7):
-    num = randint(1, 100)
-    valores.append(num)
+valores = [randint(1, 100) for valor in range(1, 7)]
 print(f'Número digitados foram: {valores}')
 valores.reverse()
 print(f'Sua ordem inversa é de {valores}')
