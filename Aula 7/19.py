@@ -1,4 +1,2 @@
-vetor = []
-for c in range(1, 501):
-    vetor.append((c+5*c) / (c+1))
+vetor = [(valor+5*valor) / (valor + 1) for valor in range(1, 501)]
 print(vetor)

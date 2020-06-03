@@ -1,7 +1,5 @@
 from random import randint
-numeros = []
-for c in range(1, 6):
-    numeros.append(randint(1, 20))
+numeros = [randint(1, 20) for valor in range(5)]
 while True:
     try:
         print('''1 - Ver o vetor na orgem direta

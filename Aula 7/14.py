@@ -1,9 +1,5 @@
 from collections import Counter
 from random import randint
-
-lista = list()
-for c in range(1, 11):
-    lista.append(randint(1, 5))
+lista = list(randint(1, 5) for valor in range(1, 11))
 print('Valores sorteados', lista)
-for c in Counter(lista):
-    print(f'O valor {c} repetiu {lista.count(c)} vezes')
+[print(f'O valor {c} repetiu {lista.count(c)} vezes') for c in Counter(lista)]

@@ -20,20 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 8/67.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 8/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 8/48.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +60,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.10">
-    <configuration name="06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.20">
+    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10" />
-        <item itemvalue="Python.09" />
-        <item itemvalue="Python.08" />
-        <item itemvalue="Python.07" />
-        <item itemvalue="Python.06" />
+        <item itemvalue="Python.20" />
+        <item itemvalue="Python.19" />
+        <item itemvalue="Python.17" />
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.15" />
       </list>
     </recent_temporary>
   </component>
@@ -222,22 +217,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588959520587" />
-    <state width="1345" height="177" key="GridCell.Tab.0.bottom" timestamp="1591035668161">
+    <state width="1345" height="177" key="GridCell.Tab.0.bottom" timestamp="1591204971531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591035668161" />
-    <state width="1345" height="177" key="GridCell.Tab.0.center" timestamp="1591035668161">
+    <state width="1345" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591204971531" />
+    <state width="1345" height="177" key="GridCell.Tab.0.center" timestamp="1591204971531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591035668161" />
-    <state width="1345" height="177" key="GridCell.Tab.0.left" timestamp="1591035668161">
+    <state width="1345" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591204971531" />
+    <state width="1345" height="177" key="GridCell.Tab.0.left" timestamp="1591204971531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591035668161" />
-    <state width="1345" height="177" key="GridCell.Tab.0.right" timestamp="1591035668161">
+    <state width="1345" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591204971531" />
+    <state width="1345" height="177" key="GridCell.Tab.0.right" timestamp="1591204971531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591035668161" />
+    <state width="1345" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591204971531" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1590695596632">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

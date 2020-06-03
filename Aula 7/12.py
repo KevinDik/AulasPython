@@ -1,7 +1,5 @@
 from random import randint
-valores = []
-for item in range(1, 6):
-    valores.append(randint(-100, 100))
+valores = [randint(-100, 100) for valor in range(1, 6)]
 print('Valores escolhidos', valores)
 print('Maior valor: ', max(valores))
 print('Menor valor', min(valores))
