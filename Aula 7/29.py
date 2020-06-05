@@ -1,9 +1,7 @@
 from random import randint
 
-numeros = []
+numeros = [randint(1, 20) for valor in range(7)]
 par = impar = 0
-for item in range(1, 7):
-    numeros.append(randint(1, 20))
 print('Numeros "Digitados"', numeros)
 print()
 print('Numeros pares digitados: ', end='')

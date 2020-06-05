@@ -1,11 +1,7 @@
 from random import randint
 
-vetor1 = set()
-vetor2 = set()
-
-for item in range(1, 11):
-    vetor1.add(randint(1, 50))
-    vetor2.add(randint(1, 50))
+vetor1 = set(randint(1, 50) for valor in range(11))
+vetor2 = set(randint(1, 50) for num in range(11))
 
 print('Primeiro vetor sorteado: ', vetor1)
 print('Segundo vetor sorteado: ', vetor2)

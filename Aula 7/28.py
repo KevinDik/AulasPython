@@ -1,8 +1,5 @@
 from random import randint
-vetor = []
-
-for c in range(1, 11):
-    vetor.append(randint(1, 30))
+vetor = [randint(1, 30) for valor in range(11)]
 print('Vetor inicial', vetor)
 
 vetorpar = vetor.copy()

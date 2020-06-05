@@ -1,10 +1,7 @@
 from random import randint
-vetor1 = []
-vetor2 = []
+vetor1 = [randint(1, 100) for valor in range(10)]
+vetor2 = [randint(1, 100) for num in range(10)]
 vetor3 = []
-for c in range(1, 11):
-    vetor1.append(randint(1, 100))
-    vetor2.append(randint(1, 100))
 print('Vetor inicial 1', vetor1)
 print('Vetor inicial 2', vetor2)
 controle = 0

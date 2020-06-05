@@ -1,9 +1,6 @@
 from random import randint
-x = []
-y = []
-for c in range(1, 6):
-    x.append(randint(1, 10))
-    y.append(randint(1, 10))
+x = [randint(1, 10) for valor in range(6)]
+y = [randint(1, 10) for num in range(6)]
 print('Valor do conjunto X: ', x)
 print('Valor do conjunto Y', y)
 controle = 0

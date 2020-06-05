@@ -1,11 +1,7 @@
 from random import randint
 
-vetor1 = []
-vetor2 = []
-
-for c in range(1, 6):
-    vetor1.append(randint(1, 20))
-    vetor2.append(randint(1, 20))
+vetor1 = [randint(1, 20) for valor in range(6)]
+vetor2 = [randint(1, 20) for num in range(6)]
 
 print(f'Vetor um sorteado: {vetor1}')
 print(f'Vetor dois sorteado: {vetor2}')

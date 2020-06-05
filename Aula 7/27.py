@@ -1,9 +1,6 @@
 from random import randint
-
-vetor = []
-for c in range(1, 11):
-    vetor.append(randint(1, 20))
+vetor = [randint(1, 20) for valor in range(11)]
 print(vetor)
 for pos, valor in enumerate(vetor):
-    if valor % 2 != 0:
+    if valor % 2 != 0 or valor == 2:
         print(f'Valor primo {valor} na posição {pos}')
