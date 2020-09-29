@@ -6,21 +6,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 11/dunder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 11/modulos built-in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 11/modulos customizados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 11/modulos externos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 11/modulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 11/pacotes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 11/primeiro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 11/segundo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek/geek1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek/geek2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek/university/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek/university/geek3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geek/university/geek4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/Escrevenco em arquivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/Leitura de arquivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/manipulacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/modos de arquivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/navegacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/novo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/seek e cursors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/stringIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/university.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 12/with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14/criando a propria versao de loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14/geradores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14/iterador customizado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14/iteradores e iteraveis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 14/teste de memoria generators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 11/segundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 11/segundo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +50,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.pacotes">
-    <configuration name="debugando com pdb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kevin\OneDrive\Documentos\Projetos\AulasPython\Aula 12\geek2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.teste de memoria generators">
+    <configuration name="criando a propria versao de loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 10/debugando com pdb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 14/criando a propria versao de loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modulos built-in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gerador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 11/modulos built-in.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 14/gerador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modulos externos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="geradores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 11/modulos externos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 14/geradores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modulos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="iterador customizado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 11/modulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 14/iterador customizado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pacotes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste de memoria generators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 11/pacotes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 14/teste de memoria generators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,20 +181,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.debugando com pdb" />
-      <item itemvalue="Python.modulos" />
-      <item itemvalue="Python.modulos built-in" />
-      <item itemvalue="Python.modulos externos" />
-      <item itemvalue="Python.pacotes" />
+      <item itemvalue="Python.criando a propria versao de loop" />
+      <item itemvalue="Python.iterador customizado" />
+      <item itemvalue="Python.geradores" />
+      <item itemvalue="Python.gerador" />
       <item itemvalue="Shell Script.Unnamed" />
+      <item itemvalue="Python.teste de memoria generators" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pacotes" />
-        <item itemvalue="Python.modulos externos" />
-        <item itemvalue="Python.modulos built-in" />
-        <item itemvalue="Python.modulos" />
-        <item itemvalue="Python.debugando com pdb" />
+        <item itemvalue="Python.teste de memoria generators" />
+        <item itemvalue="Python.geradores" />
+        <item itemvalue="Python.gerador" />
+        <item itemvalue="Python.iterador customizado" />
+        <item itemvalue="Python.criando a propria versao de loop" />
       </list>
     </recent_temporary>
   </component>
@@ -223,11 +234,16 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/AulasPython" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1599658694736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1599658694736" />
     <state x="391" y="100" key="#Servers" timestamp="1598782540303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -236,50 +252,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598780802154" />
+    <state x="417" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599134983552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599134983552" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599128740781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599128740781" />
+    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599128275291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1599128275291" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1598790221856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598790221856" />
-    <state width="1345" height="175" key="GridCell.Tab.0.bottom" timestamp="1598789839237">
+    <state width="658" height="175" key="GridCell.Tab.0.bottom" timestamp="1601345707471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598789839237" />
-    <state width="1345" height="175" key="GridCell.Tab.0.center" timestamp="1598789839237">
+    <state width="658" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601345707471" />
+    <state width="658" height="175" key="GridCell.Tab.0.center" timestamp="1601345707471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598789839237" />
-    <state width="1345" height="175" key="GridCell.Tab.0.left" timestamp="1598789839232">
+    <state width="658" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601345707471" />
+    <state width="658" height="175" key="GridCell.Tab.0.left" timestamp="1601345707471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598789839232" />
-    <state width="1345" height="175" key="GridCell.Tab.0.right" timestamp="1598789839237">
+    <state width="658" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601345707471" />
+    <state width="658" height="175" key="GridCell.Tab.0.right" timestamp="1601345707471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598789839237" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1598089929573">
+    <state width="658" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601345707471" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1599663360598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598089929573" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1598089929573">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599663360598" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1599663360598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598089929573" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1598089929573">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599663360598" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1599663360598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598089929573" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1598089929573">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599663360598" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1599663360598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598089929573" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1598790223699">
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599663360598" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1599655518547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598790223699" />
-    <state x="247" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590337923560">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="247" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1590337923560" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599655518547" />
     <state x="87" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598789265440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,4 +1,4 @@
-import
+import primeiro
 
 
 def funcao2():
