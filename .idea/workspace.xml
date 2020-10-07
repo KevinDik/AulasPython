@@ -6,14 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6062f520-0350-43cc-a530-6210864605b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula 14/teste de velocidade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 15/decoradores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 15/decorators com diferentes assinaturas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 15/forcando tipos de dados com decorador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 15/funcoes de maior grandeza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 15/preservando metadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 16/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 16/poo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 16/abstracao e encapsulamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 16/atributos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 16/metodos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 16/objetos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +51,8 @@
       <recent name="C:\Users\kevin\OneDrive\Documentos\Projetos\AulasPython\Aula 12\geek2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.classes">
-    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.abstracao e encapsulamento">
+    <configuration name="abstracao e encapsulamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 16/classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 16/abstracao e encapsulamento.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,49 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forcando tipos de dados com decorador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ExcericiosCursoDePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 15/forcando tipos de dados com decorador.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="funcoes de maior grandeza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ExcericiosCursoDePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 15/funcoes de maior grandeza.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="poo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="atributos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 16/poo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 16/atributos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="preservando metadata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="metodos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExcericiosCursoDePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +102,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 15/preservando metadata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 16/metodos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="objetos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExcericiosCursoDePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 16/objetos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExcericiosCursoDePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,20 +169,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.funcoes de maior grandeza" />
+      <item itemvalue="Python.testes" />
+      <item itemvalue="Python.atributos" />
+      <item itemvalue="Python.metodos" />
+      <item itemvalue="Python.objetos" />
       <item itemvalue="Shell Script.Unnamed" />
-      <item itemvalue="Python.preservando metadata" />
-      <item itemvalue="Python.forcando tipos de dados com decorador" />
-      <item itemvalue="Python.poo" />
-      <item itemvalue="Python.classes" />
+      <item itemvalue="Python.abstracao e encapsulamento" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.classes" />
-        <item itemvalue="Python.poo" />
-        <item itemvalue="Python.forcando tipos de dados com decorador" />
-        <item itemvalue="Python.preservando metadata" />
-        <item itemvalue="Python.funcoes de maior grandeza" />
+        <item itemvalue="Python.abstracao e encapsulamento" />
+        <item itemvalue="Python.objetos" />
+        <item itemvalue="Python.atributos" />
+        <item itemvalue="Python.metodos" />
+        <item itemvalue="Python.testes" />
       </list>
     </recent_temporary>
   </component>
@@ -258,38 +256,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598790221856" />
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom" timestamp="1601726930095">
+    <state width="1345" height="169" key="GridCell.Tab.0.bottom" timestamp="1602065108977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601726930095" />
-    <state width="1345" height="173" key="GridCell.Tab.0.center" timestamp="1601726930094">
+    <state width="1345" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602065108977" />
+    <state width="1345" height="169" key="GridCell.Tab.0.center" timestamp="1602065108977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601726930094" />
-    <state width="1345" height="173" key="GridCell.Tab.0.left" timestamp="1601726930094">
+    <state width="1345" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602065108977" />
+    <state width="1345" height="169" key="GridCell.Tab.0.left" timestamp="1602065108977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601726930094" />
-    <state width="1345" height="173" key="GridCell.Tab.0.right" timestamp="1601726930094">
+    <state width="1345" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602065108977" />
+    <state width="1345" height="169" key="GridCell.Tab.0.right" timestamp="1602065108977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601726930094" />
-    <state width="658" height="219" key="GridCell.Tab.1.bottom" timestamp="1601429329806">
+    <state width="1345" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602065108977" />
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom" timestamp="1601930467067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601429329806" />
-    <state width="658" height="219" key="GridCell.Tab.1.center" timestamp="1601429329805">
+    <state width="1345" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601930467067" />
+    <state width="1345" height="222" key="GridCell.Tab.1.center" timestamp="1601930467067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601429329805" />
-    <state width="658" height="219" key="GridCell.Tab.1.left" timestamp="1601429329805">
+    <state width="1345" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601930467067" />
+    <state width="1345" height="222" key="GridCell.Tab.1.left" timestamp="1601930467067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601429329805" />
-    <state width="658" height="219" key="GridCell.Tab.1.right" timestamp="1601429329805">
+    <state width="1345" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601930467067" />
+    <state width="1345" height="222" key="GridCell.Tab.1.right" timestamp="1601930467067">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601429329805" />
+    <state width="1345" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601930467067" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1599655518547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
