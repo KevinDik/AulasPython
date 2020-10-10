@@ -126,7 +126,6 @@ class Usuario():
     def deficicao(): #metodo estatico, nao tem acesso a classe e nem a instancia
         return 'kdss226921'
 
-
     def __init__(self, nome, sobrenome, email, senha):
         self.__id = Usuario.contador + 1
         self.__nome = nome
